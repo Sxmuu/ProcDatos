@@ -1,5 +1,4 @@
-<h1 align = "center">Procesamiento de datos a gran escala - 2410</h1>
-<p align="center"><img src="https://github.com/Sxmuu/ProcDatos/assets/116745500/9f437801-6b03-4973-8e85-1cfe02730bd1" width="400"></p>
+<h1 align = "center">Procesamiento de datos a gran escala</h1>
 <h2 align="center">Samuel Peña</h2>
 
 <div>
